@@ -44,7 +44,7 @@ const Experience = () => {
                 <div className="company-logo-section">
                   <div className="company-logo">
                     <img 
-                      src="/sampath-bank-logo.png" 
+                      src="/YasithasPortfolio/sampath-bank-logo.png" 
                       alt="Sampath Bank Logo" 
                       className="company-logo-image"
                     />

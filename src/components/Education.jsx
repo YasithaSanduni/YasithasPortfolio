@@ -52,7 +52,7 @@ const Education = () => {
                 <div className="company-logo-section">
                   <div className="company-logo">
                     <img 
-                      src="/sliit-logo.png" 
+                      src="/YasithasPortfolio/sliit-logo.png" 
                       alt="SLIIT Logo" 
                       className="company-logo-image"
                       onError={(e) => {

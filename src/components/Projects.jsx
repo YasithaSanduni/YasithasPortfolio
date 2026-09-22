@@ -7,42 +7,42 @@ const Projects = () => {
       title: 'Smart Campus Hub',
       description: 'Resource management system for booking, facility allocation and maintenance.',
       tags: ['React', 'Spring Boot', 'PostgreSQL'],
-      image: '/smart-campus.png',
+      image: '/YasithasPortfolio/smart-campus.png',
       link: 'https://github.com/Harshavidath12/it3030-paf-2026-smart-campus-group137'
     },
     {
       title: 'Acadome - Student Accommodation System',
       description: 'Accommodation management platform with booking, payments and reviews.',
       tags: ['MERN Stack', 'JWT', 'OTP'],
-      image: '/acadome.png',
+      image: '/YasithasPortfolio/acadome.png',
       link: 'https://github.com/Harshavidath12/Acadome'
     },
     {
       title: 'Petora - Animal Shelter & Adoption',
       description: 'Platform to help adopt pets and manage shelter activities.',
       tags: ['React', 'Figma'],
-      image: '/petora.png',
+      image: '/YasithasPortfolio/petora.png',
       link: 'https://github.com/Ash-x-o/ITP_project_Y2S2'
     },
     {
       title: 'Welli - Habit Tracking App',
       description: 'Mobile app to track daily habits and improve productivity.',
       tags: ['Android Studio'],
-      image: '/welli.png',
+      image: '/YasithasPortfolio/welli.png',
       link: '#'
     },
     {
       title: 'EmpConnect - Employee Management',
       description: 'System to manage employee details and attendance.',
       tags: ['Java', 'MySQL', 'MVC'],
-      image: '/empconnect.png',
+      image: '/YasithasPortfolio/empconnect.png',
       link: 'https://github.com/YasithaSanduni/Emp/blob/main/EmpConnect-Employee-Management-System%202.zip'
     },
     {
       title: 'Online Apartment Sales System',
       description: 'Web system for apartment listings and sales management.',
       tags: ['React', 'Node.js', 'MongoDB'],
-      image: '/apartment.png',
+      image: '/YasithasPortfolio/apartment.png',
       link: '#'
     }
   ];

@@ -21,7 +21,7 @@ const Hero = () => {
             <a href="#projects" className="btn bg-gradient">
               View Projects <ArrowRight size={18} />
             </a>
-            <a href="/Yasitha_Thilakarathna_CV.pdf" download className="btn btn-outline">
+            <a href="/YasithasPortfolio/Yasitha_Thilakarathna_CV.pdf" download className="btn btn-outline">
               Download CV <Download size={18} />
             </a>
             <div className="social-links">
@@ -36,7 +36,7 @@ const Hero = () => {
           <div className="hero-image-backdrop">
             <div className="hero-image-inner">
               <div className="image-placeholder">
-                <img src="/Yasitha.jpg" alt="Yasitha Thilakarathna" />
+                <img src="/YasithasPortfolio/Yasitha.jpg" alt="Yasitha Thilakarathna" />
                </div>
             </div>
           </div>
